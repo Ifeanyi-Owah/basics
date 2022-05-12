@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 eba
 amala
 rice
+=======
+operation mince meet
+i know what you did last summer
+thats just the way it is
+>>>>>>> movies
